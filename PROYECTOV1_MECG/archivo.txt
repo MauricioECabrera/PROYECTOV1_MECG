@@ -1,0 +1,16 @@
+{znombre}||{artista}||{duracion}
+{anombre}||{artista}||{duracion}
+{fnombre}||{artista}||{duracion}
+{nnombre}||{artista}||{duracion}
+{snombre}||{artista}||{duracion}
+{bnombre}||{artista}||{duracion}
+{wnombre}||{artista}||{duracion}
+{cnombre}||{artista}||{duracion}
+{lnombre}||{artista}||{duracion}
+{mnombre}||{artista}||{duracion}
+{nombre}||{artista}||{duracion}
+{qnombre}||{artista}||{duracion}
+{unombre}||{artista}||{duracion}
+{knombre}||{artista}||{duracion}
+{tnombre}||{artista}||{duracion}
+{enombre}||{artista}||{duracion}
